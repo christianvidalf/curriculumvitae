@@ -47,6 +47,8 @@
 
     .description{ animation: fadeIn 1.4s 1; }
 
+    .text-box{ font-size: 15px !important; }
+
 }
 
 
